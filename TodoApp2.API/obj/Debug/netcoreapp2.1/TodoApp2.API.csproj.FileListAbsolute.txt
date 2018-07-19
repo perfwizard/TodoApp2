@@ -1,0 +1,14 @@
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/bin/Debug/netcoreapp2.1/TodoApp2.API.deps.json
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/bin/Debug/netcoreapp2.1/TodoApp2.API.runtimeconfig.json
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/bin/Debug/netcoreapp2.1/TodoApp2.API.runtimeconfig.dev.json
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/bin/Debug/netcoreapp2.1/TodoApp2.API.dll
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/bin/Debug/netcoreapp2.1/TodoApp2.API.pdb
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.csprojAssemblyReference.cache
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.csproj.CoreCompileInputs.cache
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.RazorAssemblyInfo.cache
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.RazorAssemblyInfo.cs
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.AssemblyInfoInputs.cache
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.AssemblyInfo.cs
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.RazorTargetAssemblyInfo.cache
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.dll
+/Users/nuttapon/Angular/Angular/TodoApp2/TodoApp2.API/obj/Debug/netcoreapp2.1/TodoApp2.API.pdb
