@@ -1,5 +1,7 @@
 
 using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
 
 namespace TodoApp2.API.Models
 {
@@ -11,5 +13,11 @@ namespace TodoApp2.API.Models
         public DateTime? StartDate { get; set; }
         public DateTime DueDate { get; set; }
         public string Description { get; set; }
+        public ICollection<Task> Tasks { get; set; }
+
+        public TodoItem() 
+        {
+            Tasks = new Collection<Task>();
+        }
     }
 }
