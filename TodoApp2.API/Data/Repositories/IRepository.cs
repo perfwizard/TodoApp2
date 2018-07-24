@@ -10,7 +10,8 @@ namespace TodoApp2.API.Data.Repositories
          void Update(T entity);
          void Delete(int id);
          T GetById(int id);
-         IEnumerable<T> GetMany(Expression<Func<T,bool>> condition, Expression<Func<T,object>> properties);
+         IEnumerable<T> GetMany(Expression<Func<T,bool>> condition, Expression<Func<T,object>>[] properties);
+         IEnumerable<T> GetAll();
 
     }
 }

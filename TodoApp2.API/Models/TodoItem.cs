@@ -13,7 +13,8 @@ namespace TodoApp2.API.Models
         public DateTime? StartDate { get; set; }
         public DateTime DueDate { get; set; }
         public string Description { get; set; }
-        public ICollection<Task> Tasks { get; set; }
+        public virtual ICollection<Task> Tasks { get; set; }
+        public bool IsCompleted { get; set; }
 
         public TodoItem() 
         {

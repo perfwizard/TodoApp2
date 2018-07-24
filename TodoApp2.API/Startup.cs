@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TodoApp2.API.Data;
+using TodoApp2.API.Data.Repositories;
 
 namespace TodoApp2.API
 {
@@ -30,6 +31,7 @@ namespace TodoApp2.API
             services.AddDbContext<TodoContext>(options => 
                 options.UseSqlServer(Configuration.GetConnectionString("TodoConnectionString")));
 
+            services.AddScoped<IUserRepository, UserRepository>();
             services.AddCors();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

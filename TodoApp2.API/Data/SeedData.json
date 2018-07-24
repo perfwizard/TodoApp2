@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "firstName": "Selena",
+      "lastName": "Barron",
+      "email": "selenabarron@inventure.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Monica",
+      "lastName": "Noel",
+      "email": "monicanoel@inventure.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Wood",
+      "lastName": "Roman",
+      "email": "woodroman@inventure.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Trina",
+      "lastName": "Solis",
+      "email": "trinasolis@inventure.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Myers",
+      "lastName": "Morin",
+      "email": "myersmorin@inventure.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Sondra",
+      "lastName": "Klein",
+      "email": "sondraklein@inventure.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Delacruz",
+      "lastName": "Melton",
+      "email": "delacruzmelton@inventure.com"
+    }
+  ]
